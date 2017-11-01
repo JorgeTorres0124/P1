@@ -8,5 +8,6 @@ int main()
      scanf("%d",&x);
      num=x;
      printf("El valor escrito es %d\n",num);
+     system("PAUSE");
     
 }
