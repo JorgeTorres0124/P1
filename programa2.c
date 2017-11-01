@@ -3,5 +3,5 @@
 
 int main()
 {
-    
+    int count,sum=0;
 }
