@@ -9,5 +9,5 @@ int main()
      num=x;
      printf("El valor escrito es %d\n",num);
      system("PAUSE");
-    
+      return 0;
 }
