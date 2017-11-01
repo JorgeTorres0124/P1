@@ -7,4 +7,6 @@ int main()
     for(count=1;count<=99;count+=2)
      sum=sum+count;
      printf("La sumatoria es %d\n",sum);
+     system("PAUSE");
+     return 0;
 }
